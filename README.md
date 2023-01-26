@@ -4,6 +4,9 @@
 <li>👨‍🎓 Estudante de Análise e desenvolvimento de Sistemas</li>
 <li>🔗 Integração e automações</li>
 <li>▶️ Videos Demonstrativos https://www.youtube.com/@p0lent4games55</li>
+<li>👨‍🎓 Estudante de Análise e desenvolvimento de Sistemas</li>
+<li>🔗 Integração e automações</li>
+<li>▶️ Videos Demonstrativos https://www.youtube.com/@p0lent4games55</li>
 </ul>
 
 <div align="center">
